@@ -1,11 +1,12 @@
 {
-	"games": [{
+	"games": [
+		{
 			"nome": "Devil's Bob MUD",
 			"plataforma": "Navegador web",
 			"tipo": "RPG",
 			"ano": "2005",
 			"link": "http://www.mud.com.br",
-    "imagem": "devil.png",
+			"imagem": "devil.png"
 		},
 		{
 			"nome": "OGame",
@@ -13,14 +14,14 @@
 			"tipo": "MMORPG, Estratégia em tempo real",
 			"ano": "2002",
 			"link": "https://lobby.ogame.gameforge.com/pt_PT/",
-      "imagem": "ogames.png"
+			"imagem": "ogames.png"
 		},
 		{
 			"nome": "Dark Destroyer",
 			"plataforma": "on-line",
 			"ano": "2004",
 			"link": "https://deficienciavisual.com.br/files/audiogames/darkdestroyer-ptb.exe",
-      "imagem": "padrao.png"
+			"imagem": "padrao.png"
 		},
 		{
 			"nome": "Assassin's Creed valhalla",
@@ -28,7 +29,7 @@
 			"plataforma": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X e Series S, Google Stadia, Microsoft Windows",
 			"ano": "2020",
 			"link": "https://store.epicgames.com/pt-BR/p/assassins-creed-valhalla",
-      "imagem": "Assassins_Creed_Valhalla.png"
+			"imagem": "Assassins_Creed_Valhalla.png"
 		},
 		{
 			"nome": "Celeste",
@@ -36,7 +37,7 @@
 			"plataforma": "Nintendo Switch, PlayStation 4, Xbox One, macOS, Linux, Microsoft Windows, Google Stadia, Mac OS",
 			"ano": "2018",
 			"link": "https://store.steampowered.com/app/504230/Celeste/",
-      "imagem": "celeste.png"
+			"imagem": "celeste.png"
 		},
 		{
 			"nome": "Far Cry 6",
@@ -44,7 +45,7 @@
 			"plataforma": "PlayStation 4, Xbox One, PlayStation 5, Xbox Series X e Series S, Microsoft Windows, Amazon Luna, Google Stadia",
 			"ano": "2021",
 			"link": "https://store.epicgames.com/pt-BR/p/far-cry-6",
-      "imagem": "farcry.png"
+			"imagem": "farcry.png"
 		},
 		{
 			"nome": "Forza Horizon 5",
@@ -52,7 +53,7 @@
 			"plataforma": "Xbox Series X e Series S, Xbox One, Microsoft Windows, Xbox Cloud Gaming",
 			"ano": "2021",
 			"link": "https://www.xbox.com/pt-br/games/forza-horizon-5",
-      "imagem": "Forza.png"
+			"imagem": "Forza.png"
 		},
 		{
 			"nome": "Gears 5",
@@ -60,7 +61,7 @@
 			"plataforma": "Xbox One, Xbox Series X e Series S, Microsoft Windows",
 			"ano": "2019",
 			"link": "https://store.steampowered.com/app/1097840/Gears_5/",
-      "imagem": "Gears5.png"
+			"imagem": "Gears5.png"
 		},
 		{
 			"nome": "Hades",
@@ -68,7 +69,7 @@
 			"plataforma": "Nintendo Switch, PlayStation 4, PlayStation 5,Xbox, Microsoft Windows, Mac OS",
 			"ano": "2020",
 			"link": "https://store.steampowered.com/app/1145360/Hades/?l=brazilian",
-      "imagem": "hades.png"
+			"imagem": "hades.png"
 		},
 		{
 			"nome": "Hyperdot",
@@ -76,8 +77,7 @@
 			"plataforma": "Xbox One, Microsoft Windows, Linux, Mac OS, PlayStation 5, Nintendo Switch",
 			"ano": "2020",
 			"link": "https://store.steampowered.com/app/876500/HyperDot/",
-      "imagem": "hyper.png"
-
+			"imagem": "hyper.png"
 		},
 		{
 			"nome": "Ratchet and Clank: Rift Apart",
@@ -85,7 +85,7 @@
 			"plataforma": "PlayStation 5",
 			"ano": "2021",
 			"link": "https://www.playstation.com/pt-br/games/ratchet-and-clank-rift-apart/",
-      "imagem": "ratchet-clank.png"
+			"imagem": "ratchet-clank.png"
 		},
 		{
 			"nome": "The Last of Us Part 2",
@@ -93,7 +93,7 @@
 			"plataforma": "PlayStation 4",
 			"ano": "2020",
 			"link": "https://store.playstation.com/pt-br/product/UP9000-CUSA07820_00-THELASTOFUSPART2",
-      "imagem": "thelast.png"
+			"imagem": "thelast.png"
 		},
 		{
 			"nome": "World of Warcraft",
@@ -101,7 +101,7 @@
 			"plataforma": "macOS, Microsoft Windows, Mac OS",
 			"ano": "2004",
 			"link": "https://worldofwarcraft.com",
-      "imagem": "war.png"
+			"imagem": "war.png"
 		},
 		{
 			"nome": "Grounded",
@@ -109,7 +109,7 @@
 			"plataforma": "Xbox One, Xbox Series X e Series S, Xbox Cloud Gaming, Microsoft Windows",
 			"ano": "2020",
 			"link": "https://store.steampowered.com/app/962130/Grounded/",
-      "imagem": "Grounded.png"
+			"imagem": "Grounded.png"
 		},
 		{
 			"nome": "Overland",
@@ -117,7 +117,7 @@
 			"plataforma": "PlayStation 4, Xbox One, iOS, Microsoft Windows, Linux, macOS, Mac OS Classic, Nintendo Switch",
 			"ano": "2016",
 			"link": "https://store.steampowered.com/app/355680/Overland/",
-      "imagem": "overland.png"
+			"imagem": "overland.png"
 		},
 		{
 			"nome": "Ratchet & Clank - Em Uma Outra Dimensão",
@@ -125,7 +125,7 @@
 			"plataforma": "PlayStation 5",
 			"ano": "2021",
 			"link": "https://www.playstation.com/pt-br/games/ratchet-and-clank-rift-apart/",
-      "imagem": "ratchet-clank.png"
+			"imagem": "ratchet-clank.png"
 		},
 		{
 			"nome": "A Blind Legend",
@@ -133,7 +133,7 @@
 			"plataforma": "Android, Microsoft Windows, iOS, macOS",
 			"ano": "2015",
 			"link": "https://store.steampowered.com/app/437530/A_Blind_Legend/",
-      "imagem": "a-blind.png"
+			"imagem": "a-blind.png"
 		},
 		{
 			"nome": "Pac-Man Talks",
@@ -141,7 +141,7 @@
 			"plataforma": "Windows",
 			"ano": "2008",
 			"link": "https://www.gmagames.com/pacman.shtml",
-      "imagem": "pacman.png"
+			"imagem": "pacman.png"
 		},
 		{
 			"nome": "Slender: Lost Vision",
@@ -149,8 +149,7 @@
 			"plataforma": "Microsoft Windows",
 			"ano": "2019",
 			"link": "https://store.steampowered.com/app/1031800/Codex_Temondera_Lost_Vision",
-      "imagem": "lost.png"
-		},
+			"imagem": "lost.png"
 		}
 	]
 }
